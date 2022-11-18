@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather-Api</title>
+    <style>
+        *{ margin: 0; padding: 0; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+        body { width: 100%; height: 100vh; display: flex; align-items: center; justify-content: center; flex-direction: column; font-family: 'Inter', sans-serif; }
+        h2 { font-size: 30px; color: #575757; }
+        p { color: #575757 ;}
+        ._show{
+            width: 507px;
+            height: 50px;
+            padding: 5px;
+            padding-left: 15px;
+            background: #F4F4F4;
+            display: flex;
+            align-items: center;
+            position: relative;
+            margin-top: 20px;
+            border-radius: 2px;
+        }
+        ._show button{
+            position: absolute;
+            right: 15px;
+            background: transparent;
+            border: none;
+            outline: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>Weather Api</h2>
+    <div>
+        <p style="color: #D9D9D9; font-size: 18px; margin-top: 15px;">Api Call</p>
+        <div style="width: 528px; height: 1px; background: #D9D9D9;"></div>
+        <div class="_show">
+            <p>http://localhost:3001/search/<p style="color: #2E6DE8;">{City name}</p> </p>
+            <button onclick="copy()">Copy !</button>
+        </div>
+    </div>
+    <div style="margin-top: 35px;">
+        <p style="color: #D9D9D9; font-size: 18px;">Parameters</p>
+        <div style="width: 528px; height: 1px; background: #D9D9D9;"></div>
+        <ul>
+            <li style="list-style: none; display: flex; align-items: center;">
+                <div style=" padding: 10px; background: #F4F4F4; color: #575757; width: 75px; margin-top: 15px;">City name</div>
+                <div style="color: #D9D9D9; margin-left: 35px;">required</div>
+            </li>
+        </ul>
+    </div>
+
+    <script>
+        function copy(){
+            navigator.clipboard.writeText('http://localhost:3001/search/{City name}')
+        }
+    </script>
+</body>
+</html>
