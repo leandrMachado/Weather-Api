@@ -1,8 +1,8 @@
 module.exports = (app) => {
-    const find = (req, res) => {
-        app.services.search.find({ zone: req.params.zone })
+    const findByZone = (req, res) => {
+        app.services.search.findByZone({ zone: req.params.zone })
             .then((result) => res.status(200).json(result))
     }
 
-    return { find }
+    return { findByZone }
 }
