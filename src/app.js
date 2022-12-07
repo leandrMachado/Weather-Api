@@ -14,7 +14,17 @@ consign({ cwd: 'src', verbose: false })
   .into(app)
 
 app.get('/', (req, res) => {
-  return res.status(200).sendFile(__dirname + '/public/index.html')
+  return res.status(200).send()
+})
+
+app.use((err, req, res, next) => {
+  const { name, message, stack } = err
+
+  if(name === '') res.status(400).json({ error: message })
+  else res.status(500).json({ name, message, stack })
+
+  next(err)
+
 })
 
 module.exports = app

@@ -1,4 +1,6 @@
 module.exports = (app) => {
-    app.route('/search/:zone')
-        .get(app.routes.searchs.findByZone)
+    app.route('/users-token')
+        .get(app.routes.users.find)
+        .post(app.routes.users.save)
+
 }
