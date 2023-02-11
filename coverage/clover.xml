@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1675163315116" clover="3.2.0">
+  <project timestamp="1675163315116" name="All files">
+    <metrics statements="280" coveredstatements="266" conditionals="80" coveredconditionals="64" methods="81" coveredmethods="69" elements="441" coveredelements="399" complexity="0" loc="280" ncloc="280" packages="6" files="15" classes="15"/>
+    <package name="weather-api">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="knexfile.js" path="C:\Users\xlan6\Desktop\weather-api\knexfile.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="weather-api.src">
+      <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="app.js" path="C:\Users\xlan6\Desktop\weather-api\src\app.js">
+        <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="39" count="23" type="stmt"/>
+        <line num="41" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="22" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="weather-api.src.config">
+      <metrics statements="26" coveredstatements="24" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="6"/>
+      <file name="middlewares.js" path="C:\Users\xlan6\Desktop\weather-api\src\config\middlewares.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+      <file name="passport.js" path="C:\Users\xlan6\Desktop\weather-api\src\config\passport.js">
+        <metrics statements="14" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="11" type="stmt"/>
+        <line num="16" count="11" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+      </file>
+      <file name="router.js" path="C:\Users\xlan6\Desktop\weather-api\src\config\router.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+      </file>
+      <file name="smtp.js" path="C:\Users\xlan6\Desktop\weather-api\src\config\smtp.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="weather-api.src.errors">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="validationError.js" path="C:\Users\xlan6\Desktop\weather-api\src\errors\validationError.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="22" type="stmt"/>
+        <line num="3" count="22" type="stmt"/>
+      </file>
+    </package>
+    <package name="weather-api.src.routes">
+      <metrics statements="110" coveredstatements="102" conditionals="8" coveredconditionals="6" methods="39" coveredmethods="32"/>
+      <file name="auths.js" path="C:\Users\xlan6\Desktop\weather-api\src\routes\auths.js">
+        <metrics statements="45" coveredstatements="44" conditionals="8" coveredconditionals="6" methods="9" coveredmethods="8"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="84" count="5" type="stmt"/>
+      </file>
+      <file name="subscribes.js" path="C:\Users\xlan6\Desktop\weather-api\src\routes\subscribes.js">
+        <metrics statements="21" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="8"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+      </file>
+      <file name="users.js" path="C:\Users\xlan6\Desktop\weather-api\src\routes\users.js">
+        <metrics statements="32" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="9"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+      </file>
+      <file name="weathers.js" path="C:\Users\xlan6\Desktop\weather-api\src\routes\weathers.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="weather-api.src.services">
+      <metrics statements="119" coveredstatements="115" conditionals="68" coveredconditionals="55" methods="32" coveredmethods="28"/>
+      <file name="nodemailer.js" path="C:\Users\xlan6\Desktop\weather-api\src\services\nodemailer.js">
+        <metrics statements="14" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+      </file>
+      <file name="subscribe.js" path="C:\Users\xlan6\Desktop\weather-api\src\services\subscribe.js">
+        <metrics statements="29" coveredstatements="28" conditionals="10" coveredconditionals="7" methods="7" coveredmethods="6"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="18" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="31" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+      </file>
+      <file name="user.js" path="C:\Users\xlan6\Desktop\weather-api\src\services\user.js">
+        <metrics statements="40" coveredstatements="39" conditionals="15" coveredconditionals="12" methods="8" coveredmethods="7"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="31" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="10" type="stmt"/>
+        <line num="30" count="10" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="10" type="stmt"/>
+        <line num="40" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="9" type="stmt"/>
+        <line num="43" count="9" type="stmt"/>
+        <line num="46" count="9" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="9" type="stmt"/>
+        <line num="56" count="9" type="stmt"/>
+        <line num="57" count="9" type="stmt"/>
+        <line num="58" count="9" type="stmt"/>
+        <line num="60" count="9" type="stmt"/>
+        <line num="63" count="5" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="66" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="70" count="4" type="stmt"/>
+        <line num="75" count="5" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="81" count="5" type="stmt"/>
+      </file>
+      <file name="weather.js" path="C:\Users\xlan6\Desktop\weather-api\src\services\weather.js">
+        <metrics statements="36" coveredstatements="36" conditionals="39" coveredconditionals="32" methods="11" coveredmethods="11"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="8" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="7" type="cond" truecount="5" falsecount="0"/>
+        <line num="10" count="5" type="cond" truecount="5" falsecount="0"/>
+        <line num="11" count="4" type="cond" truecount="5" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="cond" truecount="5" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="cond" truecount="3" falsecount="2"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="31" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="47" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="63" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

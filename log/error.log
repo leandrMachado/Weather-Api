@@ -1,0 +1,215 @@
+{
+ "level": "error",
+ "message": "7a4a908b-5d70-473b-915c-b1407f5adb53: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:46:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T00:54:10.472Z"
+}
+{
+ "level": "error",
+ "message": "b3af4745-3c8f-437f-b912-3dc7044feca9: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:47:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T00:58:29.301Z"
+}
+{
+ "level": "error",
+ "message": "9928c67e-ae4e-4c31-a974-cadbec123332: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:47:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T01:00:42.341Z"
+}
+{
+ "level": "error",
+ "message": "cc39d4f3-c52b-4ada-bf00-8fb764c955cf: ErrorCannot set headers after they are sent to the clientError [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:47:40\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T01:02:23.113Z"
+}
+{
+ "level": "error",
+ "message": "bbc9b54a-3c74-47db-af88-004c17168a9f: ErrorCannot set headers after they are sent to the clientError [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:47:40\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T01:02:27.816Z"
+}
+{
+ "level": "error",
+ "message": "eee0c025-f05b-4205-bf05-48331533255a: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:47:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T01:03:01.534Z"
+}
+{
+ "level": "error",
+ "message": "31ffc2c8-0bc8-45f2-8345-494f5dc2d458: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:54:00.628Z"
+}
+{
+ "level": "error",
+ "message": "5e6deb36-21d1-4916-8697-1e3d48cf45d1: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:54:43.115Z"
+}
+{
+ "level": "error",
+ "message": "f479414c-38da-47bb-97f7-2ad584253456: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:55:20.898Z"
+}
+{
+ "level": "error",
+ "message": "b0f0ec01-ee8e-4078-9a95-bb38b4b727da: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:57:32.018Z"
+}
+{
+ "level": "error",
+ "message": "0a3c2b2a-b93b-4853-8cd8-6323ce84c1a9: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:58:15.767Z"
+}
+{
+ "level": "error",
+ "message": "cd2f3a4a-7641-4411-a280-8127db082bd3: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T02:58:50.358Z"
+}
+{
+ "level": "error",
+ "message": "49610b02-8942-40d4-8efd-ebf73835bf82: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:00:12.971Z"
+}
+{
+ "level": "error",
+ "message": "8a949a98-aba5-4b33-bf08-04c09af5dea8: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:01:21.320Z"
+}
+{
+ "level": "error",
+ "message": "77f777a6-3253-42da-8503-cb6c9278129a: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:06:37.434Z"
+}
+{
+ "level": "error",
+ "message": "5200244f-d6d9-404a-b790-adc26d36c39f: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:09:50.666Z"
+}
+{
+ "level": "error",
+ "message": "02e685e7-4c73-4fff-9fc5-893f6a2976af: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:10:25.040Z"
+}
+{
+ "level": "error",
+ "message": "3dfcd66c-f3f6-4ccd-850f-1d26ef641800: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:12:31.578Z"
+}
+{
+ "level": "error",
+ "message": "56b197f8-04ef-4b02-a296-2cacecedb9fa: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:20:04.930Z"
+}
+{
+ "level": "error",
+ "message": "71b0aa1a-1657-4900-bf2c-c907b654615d: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:25:59.210Z"
+}
+{
+ "level": "error",
+ "message": "18143cb6-8e5d-4dbf-94fc-58472ed67e4f: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:36:33.510Z"
+}
+{
+ "level": "error",
+ "message": "509b1741-4c59-422b-a6c8-828142a3f35e: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:38:05.044Z"
+}
+{
+ "level": "error",
+ "message": "7004c23e-7254-46d8-8842-3cf33812a16b: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:38:41.763Z"
+}
+{
+ "level": "error",
+ "message": "a575a592-769b-402b-aa40-3bdf2ffb2a79: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:39:35.530Z"
+}
+{
+ "level": "error",
+ "message": "fa1dbd30-9f0c-4d87-9e86-9436be27387f: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:40:36.867Z"
+}
+{
+ "level": "error",
+ "message": "d4fc0164-7035-48a0-ab85-5df1936879e1: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:41:52.192Z"
+}
+{
+ "level": "error",
+ "message": "80333c79-ae2e-46c5-9660-760b96b3c5de: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:46:11.638Z"
+}
+{
+ "level": "error",
+ "message": "d3f81531-2ec7-4432-bdcd-4a96608d46fb: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:46:58.935Z"
+}
+{
+ "level": "error",
+ "message": "6c59746d-e07f-4b0e-a0a9-bf29f1c2447f: undefinedundefinedundefined",
+ "timestamp": "2023-01-31T03:48:07.529Z"
+}
+{
+ "level": "error",
+ "message": "d4e66e69-582b-457e-be33-8a5ee9f15c27: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:48:08.193Z"
+}
+{
+ "level": "error",
+ "message": "fa3a497f-d8b3-4f27-87e8-0681706a24e8: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:49:46.642Z"
+}
+{
+ "level": "error",
+ "message": "e8fa7143-2fdb-43ac-a962-8cd0f8bb2cb7: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:57:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:50:17.833Z"
+}
+{
+ "level": "error",
+ "message": "237aeae4-6d25-45fd-b597-e1e33e364348: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:50:52.170Z"
+}
+{
+ "level": "error",
+ "message": "a63659fb-f8a4-4259-b829-8bcf152e44ee: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T03:56:40.043Z"
+}
+{
+ "level": "error",
+ "message": "61c7a84d-a273-49dc-a10e-f46d90673de1: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T04:00:30.190Z"
+}
+{
+ "level": "error",
+ "message": "1f696326-1706-4ae3-90e7-7b7c6e805f90: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T04:00:55.516Z"
+}
+{
+ "level": "error",
+ "message": "0a6f4322-dae4-46a9-b8e3-5d575869c574: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T04:01:17.606Z"
+}
+{
+ "level": "error",
+ "message": "02824343-0594-45f1-87c4-d08c813b8226: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:56:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T04:01:41.472Z"
+}
+{
+ "level": "error",
+ "message": "cbeb2a3a-1232-484c-8a66-18965440e72d: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:54:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T04:03:05.431Z"
+}
+{
+ "level": "error",
+ "message": "5fdfb93b-c1c9-4646-ad17-b40888bb3889: KnexTimeoutErrorKnex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?KnexTimeoutError: Knex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?\n    at Client_PG.acquireConnection (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\client.js:307:26)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at process.processTimers (node:internal/timers:504:9)\n    at async Runner.ensureConnection (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\execution\\runner.js:287:28)\n    at async Runner.run (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\execution\\runner.js:30:19)",
+ "timestamp": "2023-01-31T11:05:18.242Z"
+}
+{
+ "level": "error",
+ "message": "52a495d8-255d-4c07-b01f-45d124162d8d: KnexTimeoutErrorKnex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?KnexTimeoutError: Knex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?\n    at Client_PG.acquireConnection (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\client.js:307:26)\n    at async Runner.ensureConnection (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\execution\\runner.js:287:28)\n    at async Runner.run (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\knex\\lib\\execution\\runner.js:30:19)",
+ "timestamp": "2023-01-31T11:05:28.945Z"
+}
+{
+ "level": "error",
+ "message": "4f16b7b2-5983-462a-afaa-e14eeb442252: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:54:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T11:07:59.638Z"
+}
+{
+ "level": "error",
+ "message": "d2cd886f-4f0a-42db-bb62-b0c82910ecd4: ErrorCannot set headers after they are sent to the clientError: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:393:5)\n    at ServerResponse.setHeader (node:_http_outgoing:644:11)\n    at ServerResponse.header (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.location (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:915:15)\n    at ServerResponse.redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\node_modules\\express\\lib\\response.js:953:18)\n    at redirect (C:\\Users\\xlan6\\Desktop\\weather-api\\src\\routes\\auths.js:54:40)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+ "timestamp": "2023-01-31T11:08:29.686Z"
+}

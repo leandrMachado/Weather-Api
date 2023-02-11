@@ -3,14 +3,17 @@ module.exports = {
         client: 'pg',
         connection: {
         host : 'localhost',
-        port : 6001,
+        port : 6002,
         user : 'root',
-        password: '1234',
+        password: '123abc',
         database : 'root'
         },
-        debug: true,
+        debug: false,
         migrations: {
             directory: 'src/migrations'
+        },
+        seeds: {
+            directory: 'src/seeds',
         },
         pool: {
             min: 0,
